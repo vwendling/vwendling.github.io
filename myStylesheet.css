@@ -1,0 +1,70 @@
+body {
+			background-color: lightblue;
+		}
+
+		h1 {
+			text-align: center;
+			color: red;
+		}
+
+		h2 {
+			text-align: center;
+			color: red;
+		}
+		h3 {
+			text-align: center;
+			color: red;
+		}
+		p {
+			text-align: center;
+			color: red;
+		}
+
+		#wrapper {
+			width: 80%; margin: auto;
+			background-color: light grey;
+      box-shadow: 10px 10px black;
+		}
+    div {
+      width: 90%;  margin: auto;
+    }
+
+		div.itemBox{
+    border:2px solid Tomato;
+    border-radius: 24px;
+    box-shadow: 10px 10px;
+    background-color:#73AD21;
+    padding: 20px;
+    color: grey;
+    }
+    	div.favorite{
+    border:4px solid orange;
+    border-radius: 24px;
+    box-shadow: 10px 10px;
+    background-color:rgb(69, 136, 116);
+    padding: 20px;
+    color: rgb(154, 189, 221);
+    }
+    ol {
+  background-color: #ff9999;
+  padding: 20px;
+}
+
+ul {
+  background-color: #6f66a3;
+  padding: 20px;
+   list-style-type: square;
+}
+
+ol li {
+  background-color: #4ea018;
+  padding: 5px;
+  margin-left: 35px;
+
+}
+
+ul li {
+  background-color: #f838b8;
+  margin: 5px;
+  list-style-type: square;
+}
